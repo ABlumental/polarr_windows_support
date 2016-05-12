@@ -6,10 +6,10 @@ BEFORE POSTING AN ISSUE, PLEASE CONSULT THE "HELP" WIKI at: https://github.com/P
 If you don't see your question, it's time to file a new issue.
 
 Create a github account or login.
-Go to the "Issues" tab.
-Use "New Issue" button to create new issue.
-Enter a subject and a detailed description, including the device you're using and explain what's happening. Providing screenshots of the problem will help us massively- please drag and drop these in if you have them.
-Choose the appropriate Labels for your issue (i.e.bug, feature_request, question, payment, licensing, translation, etc.)
-After you submit the issue, our team will be noticed as soon as an issue is filed and we will engage as soon as we can.
+1. Go to the "Issues" tab.
+2. Use "New Issue" button to create new issue.
+3. Enter a subject and a detailed description, including the device you're using and explain what's happening. Providing screenshots of the problem will help us massively- please drag and drop these in if you have them.
+4. Choose the appropriate Labels for your issue (i.e.bug, feature_request, question, payment, licensing, translation, etc.)
+5. After you submit the issue, our team will be noticed as soon as an issue is filed and we will engage as soon as we can.
 
 If you need additional help, email support@polarr.co directly.
